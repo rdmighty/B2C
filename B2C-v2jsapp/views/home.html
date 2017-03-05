@@ -1,0 +1,31 @@
+﻿<div ng-controller="homeController as vm">
+    <header class="page-header">
+        <h1>AD B2C Test with Hello.js</h1>
+    </header>
+    <div class="row">
+        <ul class="list-unstyled list-inline">
+            <li><button class="btn btn-info sign-in">Sign-In Policy Login</button></li>
+            <li><button class="btn btn-primary sign-in-api-call-get">Get API call by Sign-In Policy</button></li>
+            <li><button class="btn btn-primary sign-in-api-call-post">Post API call by Sign-In Policy</button></li>
+            <li><button class="btn btn-info sign-in-silent-renew">Silent Renew By Sign-In Policy</button></li>
+            <li><button class="btn btn-info sign-in-logout" ng-click="vm.logout()">Sign-In Policy Logout</button></li>
+        </ul>
+    </div>
+    <div class="row">
+        <ul class="list-unstyled list-inline">
+            <li><button class="btn btn-info sign-up-sign-in">Sign-In or Sign-Up Policy Login</button></li>
+            <li><button class="btn btn-primary sign-up-sign-in-api-call-get">Get API call by Sign-Up or Sign-In Policy</button></li>
+            <li><button class="btn btn-primary sign-up-sign-in-api-call-post">Post API call by Sign-Up or Sign-In Policy</button></li>
+            <li><button class="btn btn-info sign-up-sign-in-silent-renew">Silent Renew By Sign-Up or Sign-In Policy</button></li>
+            <li><button class="btn btn-info sign-up-sign-in-logout">Sign-Up or Sign-In Policy Logout</button></li>
+        </ul>
+    </div>
+    <div class="row">
+        <ul class="list-unstyled list-inline">
+            <li><button class="btn btn-info edit-profile">Edit Profile Policy Login</button></li>
+            <li><button class="btn btn-primary edit-profile-api-call-get">Get API call by Edit Profile Policy</button></li>
+            <li><button class="btn btn-primary edit-profile-api-call-post">Post API call by Edit Profile Policy</button></li>
+            <li><button class="btn btn-info edit-profile-logout">Edit Profile Policy Logout</button></li>
+        </ul>
+    </div>
+</div>

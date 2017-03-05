@@ -1,0 +1,6 @@
+D:\Programs\ASP .NET\active-directory-b2c-dotnet-javascript-single-page-app-aspnet-web-api\B2C-v2jsapp\bin\B2C_v2jsapp.dll.config
+D:\Programs\ASP .NET\active-directory-b2c-dotnet-javascript-single-page-app-aspnet-web-api\B2C-v2jsapp\bin\B2C_v2jsapp.dll
+D:\Programs\ASP .NET\active-directory-b2c-dotnet-javascript-single-page-app-aspnet-web-api\B2C-v2jsapp\bin\B2C_v2jsapp.pdb
+D:\Programs\ASP .NET\active-directory-b2c-dotnet-javascript-single-page-app-aspnet-web-api\B2C-v2jsapp\obj\Debug\B2C-v2jsapp.csprojResolveAssemblyReference.cache
+D:\Programs\ASP .NET\active-directory-b2c-dotnet-javascript-single-page-app-aspnet-web-api\B2C-v2jsapp\obj\Debug\B2C_v2jsapp.dll
+D:\Programs\ASP .NET\active-directory-b2c-dotnet-javascript-single-page-app-aspnet-web-api\B2C-v2jsapp\obj\Debug\B2C_v2jsapp.pdb
